@@ -1,4 +1,4 @@
-# Oilpan - Blink GC
+# Oilpan - cmc49ers84
 
 Oilpan is a garbage collector (GC) for Blink objects.
 This document explores the design, API and usage of the GC.
